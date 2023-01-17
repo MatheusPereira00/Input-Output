@@ -8,5 +8,6 @@ import { Component, Input } from '@angular/core';
 export class ButtonComponent {
 
   @Input() meuButton!: string;
+  @Input() meuInput!: string;
 
 }

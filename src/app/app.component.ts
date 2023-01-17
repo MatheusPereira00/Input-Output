@@ -7,8 +7,4 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'teste-btn';
-
-
-
-  pai = " fala para seu irmão comprar pão!";
 }

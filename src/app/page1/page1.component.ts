@@ -7,7 +7,7 @@ import { Component } from '@angular/core';
 })
 export class Page1Component {
 
-
- button = "Enviar";
+  button = "Enviar";
+  input = "Digite seu nome:";
 
 }
