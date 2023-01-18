@@ -1,0 +1,8 @@
+.example-card {
+    max-width: 400px;
+  }
+  
+  .texto1, .texto2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+  }

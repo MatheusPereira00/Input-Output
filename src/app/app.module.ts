@@ -7,6 +7,10 @@ import { AppComponent } from './app.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { Page1Component } from './page1/page1.component';
 import { ButtonComponent } from './button/button.component';
+import { ButtonSecundaryComponent } from './button-secundary/button-secundary.component';
+import { CardComponent } from './card/card.component';
+import { TesteRouterComponent } from './teste-router/teste-router.component';
+import { FilhoComponent } from './filho/filho.component';
 
 
 @NgModule({
@@ -14,6 +18,10 @@ import { ButtonComponent } from './button/button.component';
     AppComponent,
     Page1Component,
     ButtonComponent,
+    ButtonSecundaryComponent,
+    CardComponent,
+    TesteRouterComponent,
+    FilhoComponent,
   ],
   imports: [
     BrowserModule,
