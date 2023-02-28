@@ -1,4 +1,4 @@
-import { Component, EventEmitter, Output } from '@angular/core';
+import { Component, EventEmitter, Input, Output } from '@angular/core';
 
 @Component({
   selector: 'app-filho',
@@ -6,4 +6,7 @@ import { Component, EventEmitter, Output } from '@angular/core';
   styleUrls: ['./filho.component.css']
 })
 export class FilhoComponent {
-}
+
+  
+
+  }

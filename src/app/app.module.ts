@@ -11,6 +11,7 @@ import { ButtonSecundaryComponent } from './button-secundary/button-secundary.co
 import { CardComponent } from './card/card.component';
 import { TesteRouterComponent } from './teste-router/teste-router.component';
 import { FilhoComponent } from './filho/filho.component';
+import { OutputComponent } from './output/output.component';
 
 
 @NgModule({
@@ -22,6 +23,7 @@ import { FilhoComponent } from './filho/filho.component';
     CardComponent,
     TesteRouterComponent,
     FilhoComponent,
+    OutputComponent,
   ],
   imports: [
     BrowserModule,

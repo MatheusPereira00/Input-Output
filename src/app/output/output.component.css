@@ -1,0 +1,17 @@
+.incrementador {
+    margin-top: 20px;
+}
+
+.incrementador {
+    display: flex;
+    justify-content: center;
+}
+
+.btn1 {
+    margin-right: 3px;
+    background-color: rgba(0, 0, 255, 0.374);
+}
+.btn2 {
+    margin-left: 3px;
+    background-color: rgba(0, 0, 255, 0.374);
+}

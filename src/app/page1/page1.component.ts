@@ -9,7 +9,8 @@ export class Page1Component {
 
   //button = "Enviar";
 
-  input = "Digite seu nome:";
+
+  //input = "Digite seu nome:";
 
   subTitulo = "Dog Bread";
 
@@ -19,5 +20,7 @@ export class Page1Component {
 
   btnLike = "Like";
   btnShare = "Share";
+
+  
 
 }
